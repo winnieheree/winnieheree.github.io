@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Wassup homiee heree</title>
+  Wassup homiee heree
 </head>
 <body>
   <h1> Mga paraan para makapag move on</h1>
