@@ -7,6 +7,6 @@
 <body>
   <h1> Mga paraan para makapag move on</h1>
   <p> wag na wag mo na siyang alalahanin pre kaya niya na sarili niya sheeesh panis malatino</p>
-![c8edd38b3df390ba94e6f0aece519fa1.jpg](https://github.com/user-attachments/assets/39ce7f96-1006-4213-a5ea-d03b43afb29a)
+https://github.com/user-attachments/assets/39ce7f96-1006-4213-a5ea-d03b43afb29a
 </body>
 </html>
