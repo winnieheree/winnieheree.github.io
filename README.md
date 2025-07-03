@@ -1,6 +1,11 @@
 # winnieheree.github.io
 <!DOCTYPE html>
 <html>
+<style>
+h1 {
+   color:lightyellow;
+}
+</style>
 <head>
   Wassup homiee heree
 </head>
