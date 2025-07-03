@@ -1,4 +1,4 @@
-# winnieheree.github.io
+# helloo <33
 <!DOCTYPE html>
 <html>
 <head>
@@ -9,7 +9,7 @@
   <p> wag na wag mo na siyang alalahanin pre kaya niya na sarili niya sheeesh panis malatino</p>
 <img src="https://github.com/user-attachments/assets/39ce7f96-1006-4213-a5ea-d03b43afb29a" alt="https://github.com/user-attachments/assets/39ce7f96-1006-4213-a5ea-d03b43afb29a">
 <script>
-alert "MISS YOUUUUU <3";
+alert(5 + 6);
 </script>
 </body>
 </html>
