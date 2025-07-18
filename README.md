@@ -1,6 +1,16 @@
 # helloo <33
 <!DOCTYPE html>
 <html>
+<style>
+img {
+			transition: all 0.3s ease-in-out;
+
+				}
+				img:hover {
+					transform: scale(1.2);
+					transition: all 0.3s ease-in;
+					border-radius: 3%;
+</style>
 <head>
   Wassup homiee heree
 </head>
