@@ -7,7 +7,7 @@ img {
 
 				}
 				img:hover {
-					transform: scale(1.2);
+					transform: scale(0.6);
 					transition: all 0.3s ease-in;
 					border-radius: 3%;
 </style>
